@@ -54,6 +54,9 @@
     "react-native-fetch-blob": "git+ssh://git@github.com/redcancode/react-native-fetch-blob.git#rn60",
     "url-parse": "1.1.9"
   },
+  "peerDependencies": {
+    "@react-native-community/netinfo": "^5.9.2"
+  },
   "devDependencies": {
     "babel-jest": "^21.0.2",
     "babel-preset-env": "*",
